@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"asset-pipeline/test/absolute-path/not-included/test.js",
+"lineCount":2,
+"mappings":"A;AAAAA,OAAAC,IAAA,CAAY,4BAAZ;",
+"sources":["asset-pipeline/test/absolute-path/not-included/test.unminified.js"],
+"names":["console","log"]
+}

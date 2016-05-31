@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="come.confluent.feedreader.UserServiceIntegrationSpec" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-05-30T20:31:36" hostname="suneels-MacBook-Pro.local" time="0.01">
+  <properties/>
+  <testcase name="test subscribe a feed by an user" classname="come.confluent.feedreader.UserServiceIntegrationSpec" time="0.007"/>
+  <testcase name="test subscribing feed already subscribed for an user" classname="come.confluent.feedreader.UserServiceIntegrationSpec" time="0.001"/>
+  <testcase name="test Unsubscribing a feed by an user " classname="come.confluent.feedreader.UserServiceIntegrationSpec" time="0.002"/>
+  <system-out><![CDATA[User already subscribed to feed:11
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

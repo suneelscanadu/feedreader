@@ -1,0 +1,109 @@
+/fileName:::data/userfeeds/userfeed_11_data.txt
+1LINEEEE: 2016-05-30 01:12:58.440|SUBSCRIBE|11|62
+>token[0]:2016-05-30 01:12:58.440token[1]:SUBSCRIBEtoken[2]:11
+3LINEEEE: 2016-05-30 01:13:09.742|UNSUBSCRIBE|11|62
+@token[0]:2016-05-30 01:13:09.742token[1]:UNSUBSCRIBEtoken[2]:11
+1LINEEEE: 2016-05-30 01:13:14.656|SUBSCRIBE|11|62
+>token[0]:2016-05-30 01:13:14.656token[1]:SUBSCRIBEtoken[2]:11
+userfeeds *******:   2
+.fileName:::data/userfeeds/userfeed_1_data.txt
+0LINEEEE: 2016-05-30 00:17:12.177|SUBSCRIBE|1|62
+=token[0]:2016-05-30 00:17:12.177token[1]:SUBSCRIBEtoken[2]:1
+0LINEEEE: 2016-05-30 00:17:22.102|SUBSCRIBE|1|64
+=token[0]:2016-05-30 00:17:22.102token[1]:SUBSCRIBEtoken[2]:1
+0LINEEEE: 2016-05-30 00:19:15.857|SUBSCRIBE|1|65
+=token[0]:2016-05-30 00:19:15.857token[1]:SUBSCRIBEtoken[2]:1
+0LINEEEE: 2016-05-30 00:31:25.448|SUBSCRIBE|1|22
+=token[0]:2016-05-30 00:31:25.448token[1]:SUBSCRIBEtoken[2]:1
+2LINEEEE: 2016-05-30 00:43:35.463|UNSUBSCRIBE|1|22
+?token[0]:2016-05-30 00:43:35.463token[1]:UNSUBSCRIBEtoken[2]:1
+userfeeds *******:   4
+.fileName:::data/userfeeds/userfeed_2_data.txt
+/LINEEEE: 2016-05-29 23:46:52.343|SUBSCRIBE|2|9
+=token[0]:2016-05-29 23:46:52.343token[1]:SUBSCRIBEtoken[2]:2
+0LINEEEE: 2016-05-29 23:46:57.824|SUBSCRIBE|2|10
+=token[0]:2016-05-29 23:46:57.824token[1]:SUBSCRIBEtoken[2]:2
+0LINEEEE: 2016-05-29 23:47:01.861|SUBSCRIBE|2|11
+=token[0]:2016-05-29 23:47:01.861token[1]:SUBSCRIBEtoken[2]:2
+userfeeds *******:   3
+.fileName:::data/userfeeds/userfeed_5_data.txt
+0LINEEEE: 2016-05-30 00:07:22.355|SUBSCRIBE|5|61
+=token[0]:2016-05-30 00:07:22.355token[1]:SUBSCRIBEtoken[2]:5
+0LINEEEE: 2016-05-30 00:07:26.239|SUBSCRIBE|5|62
+=token[0]:2016-05-30 00:07:26.239token[1]:SUBSCRIBEtoken[2]:5
+userfeeds *******:   2
+4Grails application running at http://localhost:8080
+/fileName:::data/userfeeds/userfeed_11_data.txt
+1LINEEEE: 2016-05-30 01:12:58.440|SUBSCRIBE|11|62
+>token[0]:2016-05-30 01:12:58.440token[1]:SUBSCRIBEtoken[2]:11
+3LINEEEE: 2016-05-30 01:13:09.742|UNSUBSCRIBE|11|62
+@token[0]:2016-05-30 01:13:09.742token[1]:UNSUBSCRIBEtoken[2]:11
+1LINEEEE: 2016-05-30 01:13:14.656|SUBSCRIBE|11|62
+>token[0]:2016-05-30 01:13:14.656token[1]:SUBSCRIBEtoken[2]:11
+userfeeds *******:   2
+.fileName:::data/userfeeds/userfeed_1_data.txt
+0LINEEEE: 2016-05-30 00:17:12.177|SUBSCRIBE|1|62
+=token[0]:2016-05-30 00:17:12.177token[1]:SUBSCRIBEtoken[2]:1
+0LINEEEE: 2016-05-30 00:17:22.102|SUBSCRIBE|1|64
+=token[0]:2016-05-30 00:17:22.102token[1]:SUBSCRIBEtoken[2]:1
+0LINEEEE: 2016-05-30 00:19:15.857|SUBSCRIBE|1|65
+=token[0]:2016-05-30 00:19:15.857token[1]:SUBSCRIBEtoken[2]:1
+0LINEEEE: 2016-05-30 00:31:25.448|SUBSCRIBE|1|22
+=token[0]:2016-05-30 00:31:25.448token[1]:SUBSCRIBEtoken[2]:1
+2LINEEEE: 2016-05-30 00:43:35.463|UNSUBSCRIBE|1|22
+?token[0]:2016-05-30 00:43:35.463token[1]:UNSUBSCRIBEtoken[2]:1
+userfeeds *******:   4
+.fileName:::data/userfeeds/userfeed_2_data.txt
+/LINEEEE: 2016-05-29 23:46:52.343|SUBSCRIBE|2|9
+=token[0]:2016-05-29 23:46:52.343token[1]:SUBSCRIBEtoken[2]:2
+0LINEEEE: 2016-05-29 23:46:57.824|SUBSCRIBE|2|10
+=token[0]:2016-05-29 23:46:57.824token[1]:SUBSCRIBEtoken[2]:2
+0LINEEEE: 2016-05-29 23:47:01.861|SUBSCRIBE|2|11
+=token[0]:2016-05-29 23:47:01.861token[1]:SUBSCRIBEtoken[2]:2
+userfeeds *******:   3
+.fileName:::data/userfeeds/userfeed_5_data.txt
+0LINEEEE: 2016-05-30 00:07:22.355|SUBSCRIBE|5|61
+=token[0]:2016-05-30 00:07:22.355token[1]:SUBSCRIBEtoken[2]:5
+0LINEEEE: 2016-05-30 00:07:26.239|SUBSCRIBE|5|62
+=token[0]:2016-05-30 00:07:26.239token[1]:SUBSCRIBEtoken[2]:5
+userfeeds *******:   2
+4Grails application running at http://localhost:8080
+M[[article:[articleId:10, name:article_10, description:This is article# 10]]]
+[:]
+	M[[article:[articleId:99, name:article_99, description:This is article# 99]]]
+/fileName:::data/userfeeds/userfeed_11_data.txt
+1LINEEEE: 2016-05-30 01:12:58.440|SUBSCRIBE|11|62
+>token[0]:2016-05-30 01:12:58.440token[1]:SUBSCRIBEtoken[2]:11
+3LINEEEE: 2016-05-30 01:13:09.742|UNSUBSCRIBE|11|62
+@token[0]:2016-05-30 01:13:09.742token[1]:UNSUBSCRIBEtoken[2]:11
+1LINEEEE: 2016-05-30 01:13:14.656|SUBSCRIBE|11|62
+>token[0]:2016-05-30 01:13:14.656token[1]:SUBSCRIBEtoken[2]:11
+userfeeds *******:   2
+.fileName:::data/userfeeds/userfeed_1_data.txt
+0LINEEEE: 2016-05-30 00:17:12.177|SUBSCRIBE|1|62
+=token[0]:2016-05-30 00:17:12.177token[1]:SUBSCRIBEtoken[2]:1
+0LINEEEE: 2016-05-30 00:17:22.102|SUBSCRIBE|1|64
+=token[0]:2016-05-30 00:17:22.102token[1]:SUBSCRIBEtoken[2]:1
+0LINEEEE: 2016-05-30 00:19:15.857|SUBSCRIBE|1|65
+=token[0]:2016-05-30 00:19:15.857token[1]:SUBSCRIBEtoken[2]:1
+0LINEEEE: 2016-05-30 00:31:25.448|SUBSCRIBE|1|22
+=token[0]:2016-05-30 00:31:25.448token[1]:SUBSCRIBEtoken[2]:1
+2LINEEEE: 2016-05-30 00:43:35.463|UNSUBSCRIBE|1|22
+?token[0]:2016-05-30 00:43:35.463token[1]:UNSUBSCRIBEtoken[2]:1
+userfeeds *******:   4
+.fileName:::data/userfeeds/userfeed_2_data.txt
+/LINEEEE: 2016-05-29 23:46:52.343|SUBSCRIBE|2|9
+=token[0]:2016-05-29 23:46:52.343token[1]:SUBSCRIBEtoken[2]:2
+0LINEEEE: 2016-05-29 23:46:57.824|SUBSCRIBE|2|10
+=token[0]:2016-05-29 23:46:57.824token[1]:SUBSCRIBEtoken[2]:2
+0LINEEEE: 2016-05-29 23:47:01.861|SUBSCRIBE|2|11
+=token[0]:2016-05-29 23:47:01.861token[1]:SUBSCRIBEtoken[2]:2
+userfeeds *******:   3
+.fileName:::data/userfeeds/userfeed_5_data.txt
+0LINEEEE: 2016-05-30 00:07:22.355|SUBSCRIBE|5|61
+=token[0]:2016-05-30 00:07:22.355token[1]:SUBSCRIBEtoken[2]:5
+0LINEEEE: 2016-05-30 00:07:26.239|SUBSCRIBE|5|62
+=token[0]:2016-05-30 00:07:26.239token[1]:SUBSCRIBEtoken[2]:5
+userfeeds *******:   2
+4Grails application running at http://localhost:8080
+#User already subscribed to feed:11

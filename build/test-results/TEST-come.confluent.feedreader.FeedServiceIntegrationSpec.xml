@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="come.confluent.feedreader.FeedServiceIntegrationSpec" tests="2" skipped="0" failures="0" errors="0" timestamp="2016-05-30T20:31:32" hostname="suneels-MacBook-Pro.local" time="0.006">
+  <properties/>
+  <testcase name="test adding an article to a feed" classname="come.confluent.feedreader.FeedServiceIntegrationSpec" time="0.005"/>
+  <testcase name="test adding already added article to a feed" classname="come.confluent.feedreader.FeedServiceIntegrationSpec" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

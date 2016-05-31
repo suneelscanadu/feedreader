@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="come.confluent.feedreader.BootStrapDataServiceIntegrationSpecSpec" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-05-30T20:31:19" hostname="suneels-MacBook-Pro.local" time="8.104">
+  <properties/>
+  <testcase name="test creating some default articles " classname="come.confluent.feedreader.BootStrapDataServiceIntegrationSpecSpec" time="8.1"/>
+  <testcase name="test creating some default users " classname="come.confluent.feedreader.BootStrapDataServiceIntegrationSpecSpec" time="0.002"/>
+  <testcase name="test creating some default feeds " classname="come.confluent.feedreader.BootStrapDataServiceIntegrationSpecSpec" time="0.002"/>
+  <system-out><![CDATA[fileName:::data/userfeeds/userfeed_11_data.txt
+LINEEEE: 2016-05-30 01:12:58.440|SUBSCRIBE|11|62
+token[0]:2016-05-30 01:12:58.440token[1]:SUBSCRIBEtoken[2]:11
+LINEEEE: 2016-05-30 01:13:09.742|UNSUBSCRIBE|11|62
+token[0]:2016-05-30 01:13:09.742token[1]:UNSUBSCRIBEtoken[2]:11
+LINEEEE: 2016-05-30 01:13:14.656|SUBSCRIBE|11|62
+token[0]:2016-05-30 01:13:14.656token[1]:SUBSCRIBEtoken[2]:11
+userfeeds *******:   2
+fileName:::data/userfeeds/userfeed_1_data.txt
+LINEEEE: 2016-05-30 00:17:12.177|SUBSCRIBE|1|62
+token[0]:2016-05-30 00:17:12.177token[1]:SUBSCRIBEtoken[2]:1
+LINEEEE: 2016-05-30 00:17:22.102|SUBSCRIBE|1|64
+token[0]:2016-05-30 00:17:22.102token[1]:SUBSCRIBEtoken[2]:1
+LINEEEE: 2016-05-30 00:19:15.857|SUBSCRIBE|1|65
+token[0]:2016-05-30 00:19:15.857token[1]:SUBSCRIBEtoken[2]:1
+LINEEEE: 2016-05-30 00:31:25.448|SUBSCRIBE|1|22
+token[0]:2016-05-30 00:31:25.448token[1]:SUBSCRIBEtoken[2]:1
+LINEEEE: 2016-05-30 00:43:35.463|UNSUBSCRIBE|1|22
+token[0]:2016-05-30 00:43:35.463token[1]:UNSUBSCRIBEtoken[2]:1
+userfeeds *******:   4
+fileName:::data/userfeeds/userfeed_2_data.txt
+LINEEEE: 2016-05-29 23:46:52.343|SUBSCRIBE|2|9
+token[0]:2016-05-29 23:46:52.343token[1]:SUBSCRIBEtoken[2]:2
+LINEEEE: 2016-05-29 23:46:57.824|SUBSCRIBE|2|10
+token[0]:2016-05-29 23:46:57.824token[1]:SUBSCRIBEtoken[2]:2
+LINEEEE: 2016-05-29 23:47:01.861|SUBSCRIBE|2|11
+token[0]:2016-05-29 23:47:01.861token[1]:SUBSCRIBEtoken[2]:2
+userfeeds *******:   3
+fileName:::data/userfeeds/userfeed_5_data.txt
+LINEEEE: 2016-05-30 00:07:22.355|SUBSCRIBE|5|61
+token[0]:2016-05-30 00:07:22.355token[1]:SUBSCRIBEtoken[2]:5
+LINEEEE: 2016-05-30 00:07:26.239|SUBSCRIBE|5|62
+token[0]:2016-05-30 00:07:26.239token[1]:SUBSCRIBEtoken[2]:5
+userfeeds *******:   2
+Grails application running at http://localhost:8080
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"asset-pipeline/test/test.js",
+"lineCount":2,
+"mappings":"A;AAGAA,OAAAC,IAAA,CAAY,iDAAZ,CAEAD,QAAAC,IAAA,CAAY,iBAAZ,CAEAD,QAAAC,IAAA,CAAY,gBAAZ,CAIAD,QAAAC,IAAA,CAAY,gBAAZ,CAEAD,QAAAC,IAAA,CAAY,UAAZ;",
+"sources":["asset-pipeline/test/test.unminified.js"],
+"names":["console","log"]
+}

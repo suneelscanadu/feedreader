@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.confluent.feedreader.FeedServiceSpec" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-05-30T20:31:14" hostname="suneels-MacBook-Pro.local" time="1.399">
+  <properties/>
+  <testcase name="test adding an article11 to a feed" classname="com.confluent.feedreader.FeedServiceSpec" time="1.399"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

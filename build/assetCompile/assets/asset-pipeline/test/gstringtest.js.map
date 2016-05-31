@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"asset-pipeline/test/gstringtest.js",
+"lineCount":2,
+"mappings":"A;AAAAA,OAAAC,IAAA,CAAY,2CAAZ;",
+"sources":["asset-pipeline/test/gstringtest.unminified.js"],
+"names":["console","log"]
+}

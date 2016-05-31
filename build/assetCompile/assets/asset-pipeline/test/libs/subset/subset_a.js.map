@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"asset-pipeline/test/libs/subset/subset_a.js",
+"lineCount":2,
+"mappings":"A;AAAAA,OAAAC,IAAA,CAAY,UAAZ;",
+"sources":["asset-pipeline/test/libs/subset/subset_a.unminified.js"],
+"names":["console","log"]
+}

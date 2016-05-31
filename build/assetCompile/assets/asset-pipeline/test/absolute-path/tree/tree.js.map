@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"asset-pipeline/test/absolute-path/tree/tree.js",
+"lineCount":2,
+"mappings":"A;AAAAA,OAAAC,IAAA,CAAY,MAAZ;",
+"sources":["asset-pipeline/test/absolute-path/tree/tree.unminified.js"],
+"names":["console","log"]
+}

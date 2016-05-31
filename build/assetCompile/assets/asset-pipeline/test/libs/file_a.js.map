@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"asset-pipeline/test/libs/file_a.js",
+"lineCount":2,
+"mappings":"A;AAAAA,OAAAC,IAAA,CAAY,iBAAZ;",
+"sources":["asset-pipeline/test/libs/file_a.unminified.js"],
+"names":["console","log"]
+}
