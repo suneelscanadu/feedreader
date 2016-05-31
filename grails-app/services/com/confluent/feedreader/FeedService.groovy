@@ -28,7 +28,7 @@ class FeedService implements Runnable {
 	def fileUtilsService
 	def bootStrapDataService
     private final ConcurrentMap<Long, List<FeedArticle>> feedArticlesData = new ConcurrentHashMap<Long, List<FeedArticle>>()
-	private final BlockingQueue<FeedArticle> feedArticlesQueue = new ArrayBlockingQueue<FeedArticle>(10);
+	private final BlockingQueue<FeedArticle> feedArticlesQueue = new ArrayBlockingQueue<FeedArticle>(100);
 	static Logger log = LoggerFactory.getLogger(FeedService.class)
 	/*
 	 * takes the feed article item from the blocking queue and writes to file

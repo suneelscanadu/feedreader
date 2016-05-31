@@ -29,7 +29,7 @@ class UserService implements Runnable{
 	def bootStrapDataService
 	static Logger log = LoggerFactory.getLogger(UserService.class)
 	private final ConcurrentMap<Long, List<UserFeed>> userFeedData = new ConcurrentHashMap<Long, List<UserFeed>>()
-	private final BlockingQueue<UserFeed> userFeedQueue = new ArrayBlockingQueue<UserFeed>(10);
+	private final BlockingQueue<UserFeed> userFeedQueue = new ArrayBlockingQueue<UserFeed>(100);
 	
 	/*
 	 * takes the item from the blocking queue and writes to file
